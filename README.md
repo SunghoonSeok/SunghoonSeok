@@ -23,17 +23,17 @@
 <p>
   </em>
   <br>
-  💻 Certification
-  TensorFlow Developer Certificate
-
-  🏆 Competition
-  Lotte - Vision AI 경진대회 - top 9% (성적우수자)
-  Kaggle - Tabular Playground Series(Apr 2021) - top 7%
-  kaggle - HuBMAP - Hacking the kidney - top 20%
-  Dacon - 태양광 발전량 예측 AI 경진대회 - top 19%
-  Dacon - 제 2회 컴퓨터 비전 학습 경진대회 - top 32%
-
-  📖 STUDY
-  에이아이아카데미학원 머신러닝 딥러닝 기반 인공지능 고급개발자 과정
+  💻 Certification <br>
+  TensorFlow Developer Certificate <br>
+  <br>
+  🏆 Competition <br>
+  Lotte - Vision AI 경진대회 - top 9% (성적우수자) <br>
+  Kaggle - Tabular Playground Series(Apr 2021) - top 7% <br>
+  kaggle - HuBMAP - Hacking the kidney - top 20% <br>
+  Dacon - 태양광 발전량 예측 AI 경진대회 - top 19% <br>
+  Dacon - 제 2회 컴퓨터 비전 학습 경진대회 - top 32% <br>
+  <br>
+  📖 STUDY <br>
+  에이아이아카데미학원 머신러닝 딥러닝 기반 인공지능 고급개발자 과정 <br>
   </em>
 <p>
