@@ -20,3 +20,20 @@
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>	<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />	<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<p>
+  </em>
+  <br>
+  💻 Certification
+  TensorFlow Developer Certificate
+
+  🏆 Competition
+  Lotte - Vision AI 경진대회 - top 9% (성적우수자)
+  Kaggle - Tabular Playground Series(Apr 2021) - top 7%
+  kaggle - HuBMAP - Hacking the kidney - top 20%
+  Dacon - 태양광 발전량 예측 AI 경진대회 - top 19%
+  Dacon - 제 2회 컴퓨터 비전 학습 경진대회 - top 32%
+
+  📖 STUDY
+  에이아이아카데미학원 머신러닝 딥러닝 기반 인공지능 고급개발자 과정
+  </em>
+<p>
