@@ -29,7 +29,6 @@
   🏆 Competition <br>
   Lotte - Vision AI 경진대회 - top 9% (성적우수자) <br>
   Kaggle - Tabular Playground Series(Apr 2021) - top 7% <br>
-  kaggle - HuBMAP - Hacking the kidney - top 20% <br>
   Dacon - 태양광 발전량 예측 AI 경진대회 - top 19% <br>
   Dacon - 제 2회 컴퓨터 비전 학습 경진대회 - top 32% <br>
   <br>
